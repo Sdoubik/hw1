@@ -1,5 +1,4 @@
 # hw1
-# gfgf
-### ffdfdfd
-####### fdfdsdfsdfsdfs
-########## skfdksflksdf
+# Обо мне.
+===========================
+## Коротко.
